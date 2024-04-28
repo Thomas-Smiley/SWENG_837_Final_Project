@@ -1,1 +1,1 @@
-# SWENG_837_Final_Project
+# Equipment Tracker
